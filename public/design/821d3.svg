@@ -1,0 +1,10 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="grid-3">
+<path id="Vector" d="M13.4917 1.66667H10.625V6.66667V7.29167V11.4583H18.3333V7.29167V6.66667V6.50833C18.3333 3.475 16.525 1.66667 13.4917 1.66667Z" fill="#FDFDFD"/>
+<path id="Vector_2" d="M1.66667 8.54167V12.7083V13.125V13.4917C1.66667 16.525 3.475 18.3333 6.50833 18.3333H9.375V13.125V12.7083V8.54167H1.66667Z" fill="#FDFDFD"/>
+<g id="Vector_3" opacity="0">
+</g>
+<path id="Vector_4" d="M9.375 1.66667V7.29167H1.66667V6.50833C1.66667 3.475 3.475 1.66667 6.50833 1.66667H9.375Z" fill="#FDFDFD"/>
+<path id="Vector_5" d="M18.3333 12.7083V13.4917C18.3333 16.525 16.525 18.3333 13.4917 18.3333H10.625V12.7083H18.3333Z" fill="#FDFDFD"/>
+</g>
+</svg>
